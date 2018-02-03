@@ -1,9 +1,1 @@
-Name: see_restrict v0.1 
-
-Type: Admin/Client side plugin
-
-Restrict people to certain combinations of sections and categories
-
-Author: Sven Ellingen
-
-URL: http://svenellingen.com
+Some plugins for Textpattern asekd for in the forum.
